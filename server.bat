@@ -1,0 +1,1 @@
+openssl s_server -key server/.key -cert server/.crt -CAfile ca/.crt -accept 9000 -state

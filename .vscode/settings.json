@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"ca" : true,
+		"client" : true,
+		"server" : true,
+		"**.bat" : true,
+		"nodemon.json" : true
+	}
+}
