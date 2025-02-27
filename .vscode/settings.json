@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    "ca/**": true,
+    "client/**": true,
+    "server/**": true,
+    "**/nodemon.json" : true,
+    "**/.gitignore" : true
+  }
+}
