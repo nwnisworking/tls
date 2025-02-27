@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "ca/**": true,
+    "client/**": true,
+    "server/**": true
+  }
+}
